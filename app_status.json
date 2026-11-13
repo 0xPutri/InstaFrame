@@ -1,0 +1,11 @@
+{
+  "maintenance": false,
+  "maintenance_title": "Maintenance in progress",
+  "maintenance_message": "Instagram extraction is currently being updated. Please check back later.",
+  "min_supported_version_code": 1,
+  "latest_version_code": 1,
+  "latest_version_name": "1.0",
+  "update_title": "Update available",
+  "update_message": "A new version of InstaFrame is ready with bug fixes and improvements.",
+  "download_url": "https://drive.google.com/"
+}
