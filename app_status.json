@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "maintenance_title": "Maintenance in progress",
   "maintenance_message": "Instagram extraction is currently being updated. Please check back later.",
   "min_supported_version_code": 1,
